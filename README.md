@@ -1,6 +1,7 @@
 # For CMS Hospitals Data Downloader by Raymond Samuel 
 
 This Python project downloads datasets related to the the hospitals via API call. This  processes their CSV files by converting column headers to the snake_case, and saves the cleaned CSVs locally.
+# API URL  https://data.cms.gov/provider-data/api/1/metastore/schemas/dataset/items
 
 ---
 
