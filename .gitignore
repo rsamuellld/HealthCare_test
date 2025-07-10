@@ -1,0 +1,16 @@
+# Python cache and pycache files
+__pycache__/
+*.py[cod]
+
+# Metadata file storing last modified info (local state)
+download_metadata.json
+
+# Folder with downloaded data
+cms_hospitals_data/
+
+# Environment files
+.env
+*.env
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
