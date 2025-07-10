@@ -1,6 +1,6 @@
-# CMS Hospitals Data Downloader
+# For CMS Hospitals Data Downloader by Raymond Samuel 
 
-This Python project downloads datasets related to the theme **"Hospitals"** from the CMS provider data metastore API, processes their CSV files by converting column headers to snake_case, and saves the cleaned CSVs locally.
+This Python project downloads datasets related to the the hospitals via API call. This  processes their CSV files by converting column headers to the snake_case, and saves the cleaned CSVs locally.
 
 ---
 
@@ -20,7 +20,7 @@ This Python project downloads datasets related to the theme **"Hospitals"** from
 1. Clone the repository:
 
    ```bash
-   git clone <repo_url>
+   git clone https://github.com/rsamuellld/HealthCare_test
    cd cms_hospitals_downloader
    ```
 
@@ -78,4 +78,4 @@ A GitHub Actions workflow is included to run the script daily and upload the pro
 
 ## Contact
 
-For questions or support, please contact [Your Name] or your recruiter.
+For questions or support, please contact Raymond Samuel 
